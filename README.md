@@ -56,5 +56,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 - Website [portfoliors.netlify.app](https://portfoliors.netlify.app/)
-- GitHub [@reetsrivastava](https://github.com/reetsrivastava)
+- GitHub [@reetsrivastava](https://github.com/reetsrivastava/team-pageChallenge-DevChallenges)
 - Twitter [@hellreet46](https://twitter.com/hellreet46)
