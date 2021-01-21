@@ -172,6 +172,12 @@ figcaption {
     }
 }
 
+@media(max-width:450px) {
+    .team-img > span {
+        left: 45%;
+    }
+}
+
 
 
 
